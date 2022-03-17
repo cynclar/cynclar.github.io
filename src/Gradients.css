@@ -1,0 +1,47 @@
+.gradient-1,
+.gradient-2,
+.gradient-3,
+.gradient-4 {
+  position: absolute;
+  z-index: -1;
+}
+
+.gradient-1 {
+  height: 700px;
+  width: 700px;
+  background: url("./img/gradients/gradient-1.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+  top: 0;
+  left: 0;
+}
+
+.gradient-2 {
+  height: 900px;
+  width: 900px;
+  background: url("./img/gradients/gradient-2.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+  top: 1200px;
+  right: 0;
+}
+
+.gradient-3 {
+  height: 1100px;
+  width: 900px;
+  background: url("./img/gradients/gradient-3.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+  top: 2100px;
+  left: 0;
+}
+
+.gradient-4 {
+  height: 900px;
+  width: 900px;
+  background: url("./img/gradients/gradient-4.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+  bottom: 0;
+  right: 0;
+}

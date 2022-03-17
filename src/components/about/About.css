@@ -1,0 +1,12 @@
+.about-sect {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-sect span {
+  font-weight: 200;
+  max-width: 350px;
+  line-height: 2rem;
+}
