@@ -10,7 +10,13 @@ const Contact = () => {
         <div className="text-anim-wrapper">
           <TypeAnimation
             cursor={false}
-            sequence={["Have a chat with me!", 1500, ""]}
+            sequence={[
+              "Have a chat with me!",
+              1500,
+              "Let's collaborate!",
+              1500,
+              "",
+            ]}
             wrapper="h2"
             repeat={Infinity}
           />
