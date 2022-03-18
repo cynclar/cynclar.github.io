@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cynclar.github.io/static/css/main.4733dd90.css",
-    "main.js": "/cynclar.github.io/static/js/main.e7342d76.js",
-    "static/media/gradient-3.png": "/cynclar.github.io/static/media/gradient-3.c5dac697d7ae97f944a5.png",
-    "static/media/gradient-2.png": "/cynclar.github.io/static/media/gradient-2.d8901ca8d6cd6b6da1d5.png",
-    "static/media/gradient-4.png": "/cynclar.github.io/static/media/gradient-4.39575e61c4441b99df90.png",
-    "static/media/gradient-1.png": "/cynclar.github.io/static/media/gradient-1.002975a301087d56dcdc.png",
-    "static/media/meme-cat.png": "/cynclar.github.io/static/media/meme-cat.d86421ebabfd7de076e3.png",
-    "static/media/pp.png": "/cynclar.github.io/static/media/pp.882d1e359325a4213da5.png",
-    "index.html": "/cynclar.github.io/index.html",
-    "main.4733dd90.css.map": "/cynclar.github.io/static/css/main.4733dd90.css.map",
-    "main.e7342d76.js.map": "/cynclar.github.io/static/js/main.e7342d76.js.map"
+    "main.css": "/static/css/main.f9577b41.css",
+    "main.js": "/static/js/main.cef78e9e.js",
+    "static/media/gradient-3.png": "/static/media/gradient-3.c5dac697d7ae97f944a5.png",
+    "static/media/gradient-2.png": "/static/media/gradient-2.d8901ca8d6cd6b6da1d5.png",
+    "static/media/gradient-4.png": "/static/media/gradient-4.39575e61c4441b99df90.png",
+    "static/media/gradient-1.png": "/static/media/gradient-1.002975a301087d56dcdc.png",
+    "static/media/meme-cat.png": "/static/media/meme-cat.d86421ebabfd7de076e3.png",
+    "static/media/pp.png": "/static/media/pp.882d1e359325a4213da5.png",
+    "index.html": "/index.html",
+    "main.f9577b41.css.map": "/static/css/main.f9577b41.css.map",
+    "main.cef78e9e.js.map": "/static/js/main.cef78e9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4733dd90.css",
-    "static/js/main.e7342d76.js"
+    "static/css/main.f9577b41.css",
+    "static/js/main.cef78e9e.js"
   ]
 }
