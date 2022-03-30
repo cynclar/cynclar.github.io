@@ -18,10 +18,10 @@ export const Certs = [
     date: 2021,
   },
   {
-    score: "125",
+    score: "140",
     title: "English Test Score",
     description: "Duolingo",
-    date: 2021,
+    date: 2022,
   },
 ];
 
